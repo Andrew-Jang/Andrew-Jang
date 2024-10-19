@@ -11,6 +11,7 @@ I'm a builder by heart, passionate about creating solutions and communities that
 #### **PAST**
 - *Although I'm no longer affiliated with these teams, the journey of building them was a key part of my experience.*
 - **AI Tools**: I've also built and launched various AI-powered tools, including:
+  - Popitalk(Depricated): A platform to watch YouTube together while chatting with friends.
   - [TradDocs.com](https://traddocs.com): A tool for identifying shipping document types and detecting contract errors.
   - [ParDocs.com](https://pardocs.com): A solution for extracting structured data from unstructured documents.
   - [Mailtocell.com](https://mailtocell.com): A service to automate email data extraction into spreadsheets.
