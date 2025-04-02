@@ -6,7 +6,7 @@ I'm a builder by heart, passionate about creating solutions and communities that
 
 #### **Currently involved in**:
 - **[r/RAG](https://www.reddit.com/r/RAG)**: Creator and moderator of the largest community in the world focused on Retrieval-Augmented Generation (RAG). Join the conversation and explore innovative RAG techniques, tools, and projects.
-- **[RAGHut.com](https://raghut.com)**: Your hub to discover, explore, and compare the latest RAG projects, tools, and frameworks. A platform for the community, by the community.
+- **[Raghut](https://raghut.com)**: Under maintenance
 
 #### **PAST**
 - *Although I'm no longer affiliated with these teams, the journey of building them was a key part of my experience.*
